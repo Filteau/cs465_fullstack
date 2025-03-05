@@ -1,0 +1,3 @@
+Check the connection to repo
+    git remote -v
+
