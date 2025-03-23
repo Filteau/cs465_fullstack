@@ -1,3 +1,28 @@
+QUICK REFERENCE NOTES
+GIT
 Check the connection to repo
     git remote -v
 
+Check the branch for changes
+    git status
+
+Create a new branch
+    git checkout -b module2 (creates a branch called 'module2')
+    dir (shows the current directory)
+
+order of doing git, I guess?
+git status --> check what changes were made
+git add . --> yes, it's a period there, this part adds to tracking
+git commit -m 'Some notes about changes made' 
+git push --set-upstream origin module2 --> pushes the changes to GitHub
+
+NODE.JS stuff
+    npm start (runs the server)
+
+
+
+
+
+-------------------------------------------------------------------------
+OPTIONAL CHALLENGE
+--using the techniques in module 3 assignment, repeat the conversion process for other static HTML pages to Handlebars templates with (or w/o) JSON
