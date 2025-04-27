@@ -48,6 +48,6 @@ This course has helped me progress significantly toward my professional goals by
 - Implementing **security features** such as JWT authentication.
 - Practical **full stack project structure** and deployment processes.
 
-These skills have made me a much more marketable candidate in the software development field, particularly for full stack or backend-focused roles. I now feel confident tackling full stack projects, building both the frontend and backend, and ensuring that they communicate securely and efficiently.
+
 
 ---
